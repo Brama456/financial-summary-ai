@@ -1,0 +1,12 @@
+{
+    "month": "January",
+    "year": 2022,
+    "revenue": 153262,
+    "COGS": 96765,
+    "operating_expenses": 32654,
+    "gross_profit": 56497,
+    "net_income": 23843,
+    "marketing_expense": 12351,
+    "r_and_d_expense": 7553,
+    "admin_expense": 12750
+}

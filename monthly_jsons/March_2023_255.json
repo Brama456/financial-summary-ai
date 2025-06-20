@@ -1,0 +1,12 @@
+{
+    "month": "March",
+    "year": 2023,
+    "revenue": 466103,
+    "COGS": 249176,
+    "operating_expenses": 116252,
+    "gross_profit": 216927,
+    "net_income": 100675,
+    "marketing_expense": 33798,
+    "r_and_d_expense": 15695,
+    "admin_expense": 66759
+}
